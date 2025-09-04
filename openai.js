@@ -1,4 +1,9 @@
-const { OpenAIAPIKey } = require('./config'); // Create config.js with your API key
+const { OpenAIAPIKey } = require('./config'); // Create config.js with your API key. 
+/* eg. config.js
+module.exports = {
+    OpenAIAPIKey: 'secret'
+};
+*/
 
 class OpenAIAPI {
     static async generateResponse(userMessage) {
