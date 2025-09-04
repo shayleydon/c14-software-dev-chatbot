@@ -1,0 +1,21 @@
+Module 1 Summary : Generative AI and Software Development
+
+Congratulations! You have completed this module. At this point, you know that:
+
+    AI is used to generate high-level architecture from code and provide real-time architecture updates, architectural decision-making and optimization, and architecture visualization.
+
+    Integrating AI in DevOps processes enables automated decision-making based on real-time data by analyzing data from various sources.
+
+    In software development, NLP is used in text processing, Named Entity Recognition (NER), text classification, chatbots and conversational agents, information extraction, and summarization.
+
+    LLM’s help in code generation and auto-completion, automated bug detection and fixing, serves as a Natural language programming interface, and improves productivity.
+
+    Some common AI tools for website building are GPT, TeleportHQ, Visily, Framer X, Wix ADI, Webflow Sketch2React, Shopify, and Jimdo.
+
+    ChatGPT, CodeT5, IBM watsonx Code Assistant, OpenAI Codex, and GitHub Copilot are popular AI coding tools.
+
+    Legacy code can be characterized by outdated programming languages, lack of documentation, poor software architecture, and dependencies on obsolete technologies.
+
+    In the future, AI will help in Efficiency enhancement, creative collaboration, new application domains, enhanced natural language processing, no-code platforms, explainable AI, intelligent assistants, and ethical AI development.
+
+    AI algorithms can parse through the codebase, identify key modules, components, and their relationships, and generate visual representations of the software architecture.
